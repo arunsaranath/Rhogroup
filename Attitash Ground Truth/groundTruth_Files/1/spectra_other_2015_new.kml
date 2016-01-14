@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="spectra_other_2015_new" id="spectra_other_2015_new">
+	<SimpleField name="SiteName" type="string"></SimpleField>
+	<SimpleField name="Date" type="string"></SimpleField>
+	<SimpleField name="Time" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Notes" type="string"></SimpleField>
+	<SimpleField name="Filename" type="string"></SimpleField>
+</Schema>
+<Folder><name>spectra_other_2015_new</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_other_2015_new">
+		<SimpleData name="SiteName">mascoma 3-1</SimpleData>
+		<SimpleData name="Date">7/22/2015</SimpleData>
+		<SimpleData name="Time">10:10:04</SimpleData>
+		<SimpleData name="Longitude">-72.151100000000000</SimpleData>
+		<SimpleData name="Latitude">43.633082999999999</SimpleData>
+		<SimpleData name="Notes">mascoma_water</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.1511,43.633083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_other_2015_new">
+		<SimpleData name="SiteName">mascoma 3-10</SimpleData>
+		<SimpleData name="Date">7/22/2015</SimpleData>
+		<SimpleData name="Time">11:43:32</SimpleData>
+		<SimpleData name="Longitude">-72.135017000000005</SimpleData>
+		<SimpleData name="Latitude">43.610999999999997</SimpleData>
+		<SimpleData name="Notes">mascoma_water</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.135017,43.611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_other_2015_new">
+		<SimpleData name="SiteName">nippo</SimpleData>
+		<SimpleData name="Date">9/4/2015</SimpleData>
+		<SimpleData name="Time">12:00:32</SimpleData>
+		<SimpleData name="Longitude">-71.079635999999994</SimpleData>
+		<SimpleData name="Latitude">43.224601999999997</SimpleData>
+		<SimpleData name="Notes">nippo_water</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.082379553652189,43.21825610737087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_other_2015_new">
+		<SimpleData name="SiteName">baxter 6</SimpleData>
+		<SimpleData name="Date">9/18/2015</SimpleData>
+		<SimpleData name="Time">10:31:35</SimpleData>
+		<SimpleData name="Longitude">-71.044478999999995</SimpleData>
+		<SimpleData name="Latitude">43.329898999999997</SimpleData>
+		<SimpleData name="Notes">baxter_water</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.044479,43.329899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_other_2015_new">
+		<SimpleData name="SiteName">baxter 7</SimpleData>
+		<SimpleData name="Date">9/18/2015</SimpleData>
+		<SimpleData name="Time">11:04:46</SimpleData>
+		<SimpleData name="Longitude">-71.048653000000002</SimpleData>
+		<SimpleData name="Latitude">43.329284999999999</SimpleData>
+		<SimpleData name="Notes">baxter_water</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.048653,43.329285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_other_2015_new">
+		<SimpleData name="SiteName">sunapee</SimpleData>
+		<SimpleData name="Date">8/3/2015</SimpleData>
+		<SimpleData name="Time">10:38:09</SimpleData>
+		<SimpleData name="Longitude">-72.043888999999993</SimpleData>
+		<SimpleData name="Latitude">43.371110999999999</SimpleData>
+		<SimpleData name="Notes">sunapee_water</SimpleData>
+		<SimpleData name="Filename">WIN_20150803_103809.JPG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.043889,43.371111</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

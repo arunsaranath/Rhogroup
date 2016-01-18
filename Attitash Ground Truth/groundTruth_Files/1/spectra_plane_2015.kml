@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="spectra_plane_2015" id="spectra_plane_2015">
+	<SimpleField name="SiteName" type="string"></SimpleField>
+	<SimpleField name="Date" type="string"></SimpleField>
+	<SimpleField name="Time" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Notes" type="string"></SimpleField>
+	<SimpleField name="Filename" type="string"></SimpleField>
+</Schema>
+<Folder><name>spectra_plane_2015</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_plane_2015">
+		<SimpleData name="SiteName">greatpond</SimpleData>
+		<SimpleData name="Date">8/28/2015</SimpleData>
+		<SimpleData name="Time">14:19:07</SimpleData>
+		<SimpleData name="Longitude">-71.061629999999994</SimpleData>
+		<SimpleData name="Latitude">42.913952000000002</SimpleData>
+		<SimpleData name="Notes">greatpond_gravel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.061544435469088,42.913793247176407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_plane_2015">
+		<SimpleData name="SiteName">showell</SimpleData>
+		<SimpleData name="Date">8/28/2015</SimpleData>
+		<SimpleData name="Time">14:53:25</SimpleData>
+		<SimpleData name="Longitude">-71.176063999999997</SimpleData>
+		<SimpleData name="Latitude">42.908816999999999</SimpleData>
+		<SimpleData name="Notes">showell_water</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.176058295697956,42.908771041443117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_plane_2015">
+		<SimpleData name="SiteName">giles</SimpleData>
+		<SimpleData name="Date">9/12/2015</SimpleData>
+		<SimpleData name="Time">10:22:10</SimpleData>
+		<SimpleData name="Longitude">-71.931252000000001</SimpleData>
+		<SimpleData name="Latitude">43.350665999999997</SimpleData>
+		<SimpleData name="Notes">giles_water</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.931252,43.350666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_plane_2015">
+		<SimpleData name="SiteName">kolelemook</SimpleData>
+		<SimpleData name="Date">9/12/2015</SimpleData>
+		<SimpleData name="Time">11:55:02</SimpleData>
+		<SimpleData name="Longitude">-72.046584999999993</SimpleData>
+		<SimpleData name="Latitude">43.490234000000001</SimpleData>
+		<SimpleData name="Notes">kolelemook_sand</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.046622077963377,43.490354014181314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_plane_2015">
+		<SimpleData name="SiteName">attitash</SimpleData>
+		<SimpleData name="Date">2015:08:28</SimpleData>
+		<SimpleData name="Time">9:18:37</SimpleData>
+		<SimpleData name="Longitude">-70.977221999999998</SimpleData>
+		<SimpleData name="Latitude">42.854722000000002</SimpleData>
+		<SimpleData name="Notes">attitash_lawn</SimpleData>
+		<SimpleData name="Filename">WIN_20150828_091837.JPG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.977222,42.854722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_plane_2015">
+		<SimpleData name="SiteName">attitash</SimpleData>
+		<SimpleData name="Date">2015:08:28</SimpleData>
+		<SimpleData name="Time">9:29:23</SimpleData>
+		<SimpleData name="Longitude">-70.965833000000003</SimpleData>
+		<SimpleData name="Latitude">42.848056000000000</SimpleData>
+		<SimpleData name="Notes">attitash_pavement</SimpleData>
+		<SimpleData name="Filename">WIN_20150828_092923.JPG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.966089743955692,42.847924534607031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_plane_2015">
+		<SimpleData name="SiteName">attitash</SimpleData>
+		<SimpleData name="Date">2015:08:28</SimpleData>
+		<SimpleData name="Time">11:23:33</SimpleData>
+		<SimpleData name="Longitude">-70.975832999999994</SimpleData>
+		<SimpleData name="Latitude">42.849443999999998</SimpleData>
+		<SimpleData name="Notes">attitash_lake</SimpleData>
+		<SimpleData name="Filename">WIN_20150828_112333.JPG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.975833,42.849312537551626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_plane_2015">
+		<SimpleData name="SiteName">attitash</SimpleData>
+		<SimpleData name="Date">2015:08:28</SimpleData>
+		<SimpleData name="Time">12:00:55</SimpleData>
+		<SimpleData name="Longitude">-70.978055999999995</SimpleData>
+		<SimpleData name="Latitude">42.852221999999998</SimpleData>
+		<SimpleData name="Notes">attitash_dock</SimpleData>
+		<SimpleData name="Filename">WIN_20150828_120055.JPG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.978043774097344,42.852413209020753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_plane_2015">
+		<SimpleData name="SiteName">giles</SimpleData>
+		<SimpleData name="Date">2015:09:12</SimpleData>
+		<SimpleData name="Time">10:24:30</SimpleData>
+		<SimpleData name="Longitude">-71.930278000000001</SimpleData>
+		<SimpleData name="Latitude">43.348889000000000</SimpleData>
+		<SimpleData name="Notes">giles_gravel</SimpleData>
+		<SimpleData name="Filename">WIN_20150912_102430.JPG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.930432861433587,43.348918635067648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_plane_2015">
+		<SimpleData name="SiteName">eastman</SimpleData>
+		<SimpleData name="Date">2015:09:12</SimpleData>
+		<SimpleData name="Time">12:25:04</SimpleData>
+		<SimpleData name="Longitude">-72.115832999999995</SimpleData>
+		<SimpleData name="Latitude">43.513610999999997</SimpleData>
+		<SimpleData name="Notes">eastman_water</SimpleData>
+		<SimpleData name="Filename">WIN_20150912_122504.JPG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.11603265057208,43.513718557283163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#spectra_plane_2015">
+		<SimpleData name="SiteName">showell</SimpleData>
+		<SimpleData name="Date">8/28/2015</SimpleData>
+		<SimpleData name="Notes">showell_pavement</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.175406579187566,42.910140382615332</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<NetworkLink>
+<name>raw_5202_rd_or2mR125G86B49</name>
+<Region>
+<LatLonAltBox>
+<north>42.8696483039622080</north>
+<south>42.8420522444806340</south>
+<east>-70.9681598386656560</east>
+<west>-70.9958541483422610</west>
+</LatLonAltBox>
+<Lod>
+<minLodPixels>329</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<GroundOverlay>
+<Icon>
+<href>raw_5202_rd_or2mR125G86B49.png</href>
+</Icon>
+<LatLonBox>
+<north>42.8696483039622080</north>
+<south>42.8420522444806340</south>
+<east>-70.9681598386656560</east>
+<west>-70.9958541483422610</west>
+</LatLonBox>
+</GroundOverlay>
+</NetworkLink>
+</Document>
+</kml>

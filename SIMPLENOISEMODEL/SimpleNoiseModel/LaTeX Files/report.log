@@ -1,0 +1,392 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.12.14)  27 SEP 2013 17:20
+entering extended mode
+**report.tex
+("C:\Users\arunsaranath\SkyDrive\SimpleNoiseModel\LaTeX Files\report.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@indent=\dimen117
+\caption@parindent=\dimen118
+\caption@hangindent=\dimen119
+)
+\c@ContinuedFloat=\count101
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2012/01/12 v1.1d Sub-captions (AR)
+\c@subfigure=\count102
+\c@subtable=\count103
+)
+("C:\Users\arunsaranath\SkyDrive\SimpleNoiseModel\LaTeX Files\report.aux"
+
+LaTeX Warning: Label `fig:origPix_1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:origPix_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:avgCorr_1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:avgCorr_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:dspkCorr_1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:dspkCorr_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:origPix_1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:origPix_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:avgCorr_1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:avgCorr_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:dspkCorr_1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:dspkCorr_1' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 9.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen120
+\scratchbox=\box28
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen121
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks21
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--47
+
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (4.79424pt too wide) detected at line 51
+ []$[]  \OML/cmm/m/it/12 intDiff\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 i\OT1/cmr/m/n
+/12 ) = [(\OML/cmm/m/it/12 intensity\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 i\OT1/cmr
+/m/n/12 ) \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 intensity\OT1/cmr/m/n/12 (\OML/cm
+m/m/it/12 i\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 j\OT1/cmr/m/n/12 ]) + \OML/cmm/m/i
+t/12 :::\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 intensity\OT1/cmr/m
+/n/12 (\OML/cmm/m/it/12 i\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 
+intensity\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 i\OT1/cmr/m/n/12 ))$ 
+ []
+
+<orig17F45_328_343.jpg, id=11, 1606.0pt x 861.2175pt>
+File: orig17F45_328_343.jpg Graphic file (type jpg)
+
+<use orig17F45_328_343.jpg>
+Package pdftex.def Info: orig17F45_328_343.jpg used on input line 61.
+(pdftex.def)             Requested size: 77.97667pt x 108.40096pt.
+
+Underfull \hbox (badness 2245) in paragraph at lines 62--62
+[]\OT1/ptm/m/n/10.95 (a) |The orig-i-nal
+ []
+
+<avgCorr17F45_328_343.jpg, id=12, 1606.0pt x 861.2175pt>
+File: avgCorr17F45_328_343.jpg Graphic file (type jpg)
+
+<use avgCorr17F45_328_343.jpg>
+Package pdftex.def Info: avgCorr17F45_328_343.jpg used on input line 69.
+(pdftex.def)             Requested size: 77.97667pt x 108.40096pt.
+
+<dspkavgCorr17F45_328_343.jpg, id=13, 1606.0pt x 861.2175pt>
+File: dspkavgCorr17F45_328_343.jpg Graphic file (type jpg)
+
+<use dspkavgCorr17F45_328_343.jpg>
+Package pdftex.def Info: dspkavgCorr17F45_328_343.jpg used on input line 77.
+(pdftex.def)             Requested size: 77.97667pt x 108.40096pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--86
+
+ []
+
+[2] <orig17F45_349_200.jpg, id=17, 1606.0pt x 861.2175pt>
+File: orig17F45_349_200.jpg Graphic file (type jpg)
+
+<use orig17F45_349_200.jpg>
+Package pdftex.def Info: orig17F45_349_200.jpg used on input line 91.
+(pdftex.def)             Requested size: 77.97667pt x 108.40096pt.
+
+Underfull \hbox (badness 2245) in paragraph at lines 92--92
+[]\OT1/ptm/m/n/10.95 (a) |The orig-i-nal
+ []
+
+<avgCorr17F45_349_200.jpg, id=18, 1606.0pt x 861.2175pt>
+File: avgCorr17F45_349_200.jpg Graphic file (type jpg)
+
+<use avgCorr17F45_349_200.jpg>
+Package pdftex.def Info: avgCorr17F45_349_200.jpg used on input line 99.
+(pdftex.def)             Requested size: 77.97667pt x 108.40096pt.
+
+<dspkavgCorr17F45_349_200.jpg, id=19, 1606.0pt x 861.2175pt>
+File: dspkavgCorr17F45_349_200.jpg Graphic file (type jpg)
+
+<use dspkavgCorr17F45_349_200.jpg>
+Package pdftex.def Info: dspkavgCorr17F45_349_200.jpg used on input line 107.
+(pdftex.def)             Requested size: 77.97667pt x 108.40096pt.
+
+<orig3FB9_201_200.jpg, id=20, 1606.0pt x 861.2175pt>
+File: orig3FB9_201_200.jpg Graphic file (type jpg)
+
+<use orig3FB9_201_200.jpg>
+Package pdftex.def Info: orig3FB9_201_200.jpg used on input line 121.
+(pdftex.def)             Requested size: 77.97667pt x 108.40096pt.
+
+Underfull \hbox (badness 2245) in paragraph at lines 122--122
+[]\OT1/ptm/m/n/10.95 (a) |The orig-i-nal
+ []
+
+<avgCorr3FB9_201_200.jpg, id=21, 1606.0pt x 861.2175pt>
+File: avgCorr3FB9_201_200.jpg Graphic file (type jpg)
+
+<use avgCorr3FB9_201_200.jpg>
+Package pdftex.def Info: avgCorr3FB9_201_200.jpg used on input line 129.
+(pdftex.def)             Requested size: 77.97667pt x 108.40096pt.
+
+<dspkavgCorr3FB9_201_200.jpg, id=22, 1606.0pt x 861.2175pt>
+File: dspkavgCorr3FB9_201_200.jpg Graphic file (type jpg)
+
+<use dspkavgCorr3FB9_201_200.jpg>
+Package pdftex.def Info: dspkavgCorr3FB9_201_200.jpg used on input line 137.
+(pdftex.def)             Requested size: 77.97667pt x 108.40096pt.
+ [3 <C:/Users/arunsaranath/SkyDrive/SimpleNoiseModel/LaTeX Files/orig17F45_328_
+343.jpg> <C:/Users/arunsaranath/SkyDrive/SimpleNoiseModel/LaTeX Files/avgCorr17
+F45_328_343.jpg> <C:/Users/arunsaranath/SkyDrive/SimpleNoiseModel/LaTeX Files/d
+spkavgCorr17F45_328_343.jpg> <C:/Users/arunsaranath/SkyDrive/SimpleNoiseModel/L
+aTeX Files/orig17F45_349_200.jpg> <C:/Users/arunsaranath/SkyDrive/SimpleNoiseMo
+del/LaTeX Files/avgCorr17F45_349_200.jpg> <C:/Users/arunsaranath/SkyDrive/Simpl
+eNoiseModel/LaTeX Files/dspkavgCorr17F45_349_200.jpg>] [4 <C:/Users/arunsaranat
+h/SkyDrive/SimpleNoiseModel/LaTeX Files/orig3FB9_201_200.jpg> <C:/Users/arunsar
+anath/SkyDrive/SimpleNoiseModel/LaTeX Files/avgCorr3FB9_201_200.jpg> <C:/Users/
+arunsaranath/SkyDrive/SimpleNoiseModel/LaTeX Files/dspkavgCorr3FB9_201_200.jpg>
+]
+("C:\Users\arunsaranath\SkyDrive\SimpleNoiseModel\LaTeX Files\report.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3177 strings out of 494045
+ 45937 string characters out of 3148365
+ 106526 words of memory out of 3000000
+ 6452 multiletter control sequences out of 15000+200000
+ 13081 words of font info for 38 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 36i,8n,38p,1183b,445s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times
+/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+Output written on report.pdf (4 pages, 907674 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
